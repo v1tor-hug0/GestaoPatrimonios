@@ -31,7 +31,8 @@ namespace GestaoPatrimonios.Applications.Services
                 Valor = patrimonio.Valor,
                 Imagem = patrimonio.Imagem,
                 LocalizacaoID = patrimonio.LocalizacaoID,
-                StatusPatrimonioID = patrimonio.StatusPatrimonioID
+                StatusPatrimonioID = patrimonio.StatusPatrimonioID,
+                dataTransferencia = patrimonio.LogPatrimonio.FirstOrDefault().DataTransferencia
             }).ToList();
 
             return patrimoniosDto;

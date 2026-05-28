@@ -1,6 +1,7 @@
 ﻿using GestaoPatrimonios.Contexts;
 using GestaoPatrimonios.Domains;
 using GestaoPatrimonios.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace GestaoPatrimonios.Repositories
 {
@@ -15,7 +16,9 @@ namespace GestaoPatrimonios.Repositories
 
         public List<Patrimonio> Listar()
         {
-            return _context.Patrimonio.OrderBy(patrimonio => patrimonio.Denominacao).ToList();
+            return _context.Patrimonio.OrderBy(patrimonio => patrimonio.Denominacao)
+                .Include(Patrimonio => Patrimonio.LogPatrimonio)
+                .ToList();
         }
 
         public Patrimonio BuscarPorId(Guid patrimonioId)
