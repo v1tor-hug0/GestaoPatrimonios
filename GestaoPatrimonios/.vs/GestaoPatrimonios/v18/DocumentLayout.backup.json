@@ -428,35 +428,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\43159446883\\Desktop\\GestaoPatrimonioKessia\\GestaoPatrimonios\\GestaoPatrimonios\\appsettings.json",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\appsettings.json",
-              "ToolTip": "C:\\Users\\43159446883\\Desktop\\GestaoPatrimonioKessia\\GestaoPatrimonios\\GestaoPatrimonios\\appsettings.json",
-              "RelativeToolTip": "GestaoPatrimonios\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-25T11:23:26.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\43159446883\\Desktop\\GestaoPatrimonioKessia\\GestaoPatrimonios\\GestaoPatrimonios\\.env",
-              "RelativeDocumentMoniker": "GestaoPatrimonios\\.env",
-              "ToolTip": "C:\\Users\\43159446883\\Desktop\\GestaoPatrimonioKessia\\GestaoPatrimonios\\GestaoPatrimonios\\.env",
-              "RelativeToolTip": "GestaoPatrimonios\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-25T11:29:46.685Z"
             },
             {
               "$type": "Document",
@@ -571,6 +547,30 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T11:23:26.573Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\43159446883\\Desktop\\GestaoPatrimonioKessia\\GestaoPatrimonios\\GestaoPatrimonios\\.env",
+              "RelativeDocumentMoniker": "GestaoPatrimonios\\.env",
+              "ToolTip": "C:\\Users\\43159446883\\Desktop\\GestaoPatrimonioKessia\\GestaoPatrimonios\\GestaoPatrimonios\\.env",
+              "RelativeToolTip": "GestaoPatrimonios\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-25T11:29:46.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\43159446883\\Desktop\\GestaoPatrimonioKessia\\GestaoPatrimonios\\GestaoPatrimonios\\appsettings.json",
+              "RelativeDocumentMoniker": "GestaoPatrimonios\\appsettings.json",
+              "ToolTip": "C:\\Users\\43159446883\\Desktop\\GestaoPatrimonioKessia\\GestaoPatrimonios\\GestaoPatrimonios\\appsettings.json",
+              "RelativeToolTip": "GestaoPatrimonios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T11:23:26.651Z"
             },
             {
               "$type": "Document",

@@ -456,8 +456,7 @@
               "RelativeToolTip": "GestaoPatrimonios\\Program.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAAAMAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:23:26.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T11:23:26.569Z"
             },
             {
               "$type": "Document",
@@ -493,8 +492,7 @@
               "RelativeToolTip": "GestaoPatrimonios\\Applications\\Services\\LocalizacaoService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:23:26.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T11:23:26.562Z"
             },
             {
               "$type": "Document",
@@ -506,8 +504,7 @@
               "RelativeToolTip": "GestaoPatrimonios\\DTOs\\LocalizacaoDto\\ListarLocalizacaoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:23:26.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T11:23:26.934Z"
             },
             {
               "$type": "Document",
@@ -519,8 +516,7 @@
               "RelativeToolTip": "GestaoPatrimonios\\Repositories\\PatrimonioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:23:26.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T11:23:26.654Z"
             },
             {
               "$type": "Document",
@@ -532,8 +528,7 @@
               "RelativeToolTip": "GestaoPatrimonios\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:23:26.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T11:23:26.661Z"
             },
             {
               "$type": "Document",
@@ -582,8 +577,7 @@
               "RelativeToolTip": "GestaoPatrimonios\\Repositories\\LocalizacaoRepository.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T11:23:26.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T11:23:26.565Z"
             },
             {
               "$type": "Document",
